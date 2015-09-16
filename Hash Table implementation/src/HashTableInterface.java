@@ -3,13 +3,11 @@
 /***************************************************************
  * 
  *Interface for HashTable
- * A simple HashTable interface that takes lowercase String values
+ *A simple HashTable interface that takes lowercase String values
  *
- * Acknowledgement:-
+ * Helper Resources Acknowledgement:-
  * Prof.Terry Lee
  * Carnegie Mellon University
- * 08-722 Data Structures for Application Programmers
- * Homework 4 HashTable Implementation with linear probing
  *
  ***************************************************************/
 

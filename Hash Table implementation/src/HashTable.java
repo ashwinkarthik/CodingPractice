@@ -1,5 +1,13 @@
 
-
+/***************************************************************
+ * 
+ *Implementation of HashTableInterface based on Linear Probing
+ * 
+ * Helper Resources Acknowledgement:-
+ * Prof.Terry Lee
+ * Carnegie Mellon University
+ *
+ ***************************************************************/
 
 public class HashTable implements HashTableInterface {
 	private int initialCapacity;
